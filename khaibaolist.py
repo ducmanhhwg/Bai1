@@ -141,11 +141,7 @@ print('Biến ds_a: ', ds_a)
 print('Biến ds_b: ', ds_b)
 
 #Sao chép một danh sách độc lập:
-ds_a = [4,5,8,9]
-ds_b = ds_a.copy() #Sao chép ds_a cho ds_b
-#-------------------------------
-print('Biến ds_a: ', ds_a)
-print('Biến ds_b: ', ds_b)
+
 
 #Khai báo biến kiểu dữ liệu Boolean:
 x = True
